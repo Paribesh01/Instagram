@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Paribesh01/instagram_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Paribesh01/insta_frontend.git
